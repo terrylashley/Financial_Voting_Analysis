@@ -95,3 +95,27 @@ print(f"Total: ${sum(Profit_amount)}")
 print(f"Average Change: {round(sum(Monthly_change)/len(Monthly_change),2)}")
 print(f"Greatest Increase in Profits: {Month_Count[best_increase_month]} (${(str(best_increase))})")
 print(f"Greatest Decrease in Profits: {Month_Count[best_decrease_month]} (${(str(best_decrease))})")
+
+
+#Create a text file to print the Analysis of PyBank
+
+
+with open("pybank_work", "w") as file:
+
+#Write analysis data to file using \n in order to write each line one below the other
+
+	file.write("Financial Analysis")
+	file.write("\n")
+	file.write("-------------------------------")
+	file.write("\n")
+	file.write(f"Total Months: {len(Month_Count)}")
+	file.write("\n")
+	file.write(f"Total: ${sum(Profit_amount)}")
+	file.write("\n")
+	file.write(f"Average Change: {round(sum(Monthly_change)/len(Monthly_change),2)}")
+	file.write("\n")
+	file.write(f"Greatest Increase in Profits: {Month_Count[best_increase_month]} (${(str(best_increase))})")
+	file.write("\n")
+	file.write(f"Greatest Decrease in Profits: {Month_Count[best_decrease_month]} (${(str(best_decrease))})")
+	
+	
