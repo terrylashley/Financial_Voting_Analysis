@@ -17,7 +17,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
 
-### PyPoll
+### PyPoll Data
 
 Python Script for analysis small, rural town vote-counting process.Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
