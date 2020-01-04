@@ -25,7 +25,7 @@ The Python script analyzes the votes and calculates each of the following:
 
 	The total number of votes cast
 
-A complete list of candidates who received votes
+	A complete list of candidates who received votes
 
 The percentage of votes each candidate won
 
