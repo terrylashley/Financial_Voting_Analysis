@@ -4,7 +4,7 @@
 
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
-The Python script analyzes the financial records calculates each of the following:
+The Python script analyzes the financial records calculates each of the following:  
 
 	The total number of months included in the dataset
 
