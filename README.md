@@ -6,7 +6,7 @@ Python script for analyzing the financial records of a company. Provided with fi
 
 The Python script analyzes the financial records calculates each of the following:
 
-The total number of months included in the dataset
+	The total number of months included in the dataset
 
 The total net amount of "Profit/Losses" over the entire period
 
