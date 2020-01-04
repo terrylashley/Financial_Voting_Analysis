@@ -8,7 +8,7 @@ The Python script analyzes the financial records calculates each of the followin
 
 	The total number of months included in the dataset
 
-The total net amount of "Profit/Losses" over the entire period
+	The total net amount of "Profit/Losses" over the entire period
 
 The average change in "Profit/Losses" between months over the entire period
 
