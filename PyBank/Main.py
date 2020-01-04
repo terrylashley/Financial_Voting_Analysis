@@ -100,7 +100,7 @@ print(f"Greatest Decrease in Profits: {Month_Count[best_decrease_month]} (${(str
 #Create a text file to print the Analysis of PyBank
 
 
-with open("pybank_work", "w") as file:
+with open("pybank_analysis", "w") as file:
 
 #Write analysis data to file using \n in order to write each line one below the other
 
