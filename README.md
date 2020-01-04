@@ -12,7 +12,7 @@ The Python script analyzes the financial records calculates each of the followin
 
 	The average change in "Profit/Losses" between months over the entire 	period
 
-The greatest increase in profits (date and amount) over the entire period
+	The greatest increase in profits (date and amount) over the entire 	period
 
 The greatest decrease in losses (date and amount) over the entire period
 
