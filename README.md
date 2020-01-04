@@ -23,7 +23,7 @@ Python Script for analysis small, rural town vote-counting process.Provided a se
 
 The Python script analyzes the votes and calculates each of the following:
 
-The total number of votes cast
+	The total number of votes cast
 
 A complete list of candidates who received votes
 
